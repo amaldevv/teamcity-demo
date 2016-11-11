@@ -1,6 +1,6 @@
 FROM microsoft/dotnet
 
-COPY ./publish /app
+COPY . /app
 
 WORKDIR /app
 
