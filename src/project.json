@@ -98,6 +98,7 @@
       "**/*.cshtml",
       "appsettings.json",
       "project.json",
+      "Dockerfile",
       "web.config"
     ]
   },
